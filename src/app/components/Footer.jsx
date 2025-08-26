@@ -16,7 +16,7 @@ export default function Footer() {
                         <FaSpotify className="text-2xl hover:text-green-500" />
                     </a>
                     <a href="https://youtube.com/channel/UCNm0WN8m82cD3cdLe-yJqJg" target="_blank" rel="noopener noreferrer">
-                        <FaYoutube className="text-2xl hover:text-green-500" />
+                        <FaYoutube className="text-2xl hover:text-red-500" />
                     </a>
                 </div>
                 <p className="text-xl mt-5">honeymarmalade@gmail.com</p>
